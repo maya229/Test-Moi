@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="earn_money">اكسب فلوس</string>
+    <string name="collect_coins">جمع العملات</string>
+    <string name="play_quiz">امتحن نفسك</string>
+    <string name="choose_category">اختار الفئة</string>
+    <string name="instructions">التعليمات</string>
+    <string name="spin_wheel">لف العجلة</string>
+    <string name="invite_friends">اعزم اصحابك</string>
+    <string name="Science">العلوم</string>
+    <string name="Puzzle">لغز</string>
+    <string name="Mathematics">الرياضيات</string>
+    <string name="Language">لغة</string>
+    <string name="History">تاريخ</string>
+    <string name="Drama">دراما</string>
+    <string name="enter_facebook_link">أدخل رابط الفيسبوك</string>
+    <string name="our_aim_is_to_customize_a_desirable_yet_adaptable_experience_just_for_you_change_the_font_style">هدفنا هو تخصيص تجربة مرغوبة لكنها قابلة للتكيف من أجلك فقط! تغيير نمط الخط</string>
+    <string name="change_font">تغيير الخط</string>
+    <string name="invite">اعزم</string>
+    <string name="are_you_ready_to_take_the_ultimate_test_moi_challenge_quiz">هل أنت مستعد لأخذ الاختبار النهائي لتحدي test-moi؟</string>
+    <string name="play_now">العب الان</string>
+</resources>

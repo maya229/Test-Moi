@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Test Moi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="earn_money">- Earn Money</string>
+    <string name="collect_coins">- collect_coins</string>
+    <string name="play_quiz">- Play Quiz</string>
+    <string name="choose_category">-Choose_Category</string>
+    <string name="instructions">Instructions</string>
+    <string name="spin_wheel">Spin Wheel</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="Science">Science</string>
+    <string name="Puzzle">Puzzle</string>
+    <string name="Mathematics">Mathematics</string>
+    <string name="Language">Language</string>
+    <string name="History">History</string>
+    <string name="Drama">Drama</string>
+    <string name="enter_facebook_link">Enter facebook link</string>
+    <string name="our_aim_is_to_customize_a_desirable_yet_adaptable_experience_just_for_you_change_the_font_style">Our aim is to customize a desirable yet adaptable experience just for you! Change the font style</string>
+    <string name="change_font">Change Font</string>
+    <string name="invite">Invite</string>
+    <string name="are_you_ready_to_take_the_ultimate_test_moi_challenge_quiz">Are You Ready To Take The Ultimate test-moi Challenge Quiz?</string>
+    <string name="play_now">Play now</string>
+
+</resources>
